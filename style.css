@@ -486,6 +486,7 @@ html {
       top: unset;
       bottom: -1px;
       left: 0;
+      font-size:3rem;
       background-color: lightgrey;
     }
   
