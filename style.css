@@ -484,7 +484,7 @@ html {
   
     .sliderPrice{
       top: unset;
-      bottom: -50;
+      bottom: -1px;
       left: 0;
       background-color: lightgrey;
     }
